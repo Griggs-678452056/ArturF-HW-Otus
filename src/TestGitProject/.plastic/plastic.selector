@@ -1,0 +1,4 @@
+repository "TestGitProject 2026-01-27_23-43-15/TestGitProject@10171552249054@cloud"
+  path "/"
+    br "/main"
+    co "/main"
